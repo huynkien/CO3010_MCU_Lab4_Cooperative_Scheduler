@@ -1,0 +1,14 @@
+../Core/Src/config_mode.c:34:16:fix	3
+../Core/Src/config_mode.c:40:6:turn_red_on_both	1
+../Core/Src/config_mode.c:50:6:turn_yel_on_both	1
+../Core/Src/config_mode.c:60:6:turn_grn_on_both	1
+../Core/Src/config_mode.c:70:13:confirm_red_time	3
+../Core/Src/config_mode.c:82:13:confirm_yel_time	3
+../Core/Src/config_mode.c:96:13:confirm_grn_time	3
+../Core/Src/config_mode.c:114:6:init_cfg_red	1
+../Core/Src/config_mode.c:124:6:cfg_red	3
+../Core/Src/config_mode.c:136:6:init_cfg_yel	1
+../Core/Src/config_mode.c:146:6:cfg_yel	3
+../Core/Src/config_mode.c:158:6:init_cfg_grn	1
+../Core/Src/config_mode.c:168:6:cfg_grn	3
+../Core/Src/config_mode.c:180:6:fsm_config_traffic_light_run	20

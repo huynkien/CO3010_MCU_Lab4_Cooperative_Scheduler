@@ -1,0 +1,4 @@
+../Core/Src/tasks.c:10:6:task_toggle_status_led	8	static
+../Core/Src/tasks.c:15:6:task_traffic_light_fsm	8	static
+../Core/Src/tasks.c:29:6:task_button_scan	8	static
+../Core/Src/tasks.c:36:6:task_display_7seg	8	static

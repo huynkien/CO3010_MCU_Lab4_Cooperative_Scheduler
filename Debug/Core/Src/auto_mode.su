@@ -1,0 +1,6 @@
+../Core/Src/auto_mode.c:24:6:fsm_auto_traffic_light_run	8	static
+../Core/Src/auto_mode.c:167:6:disable_all_tfl	8	static
+../Core/Src/auto_mode.c:179:6:green_red	8	static
+../Core/Src/auto_mode.c:190:6:yellow_red	8	static
+../Core/Src/auto_mode.c:201:6:red_green	8	static
+../Core/Src/auto_mode.c:212:6:red_yellow	8	static

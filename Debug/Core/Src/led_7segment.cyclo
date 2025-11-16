@@ -1,0 +1,6 @@
+../Core/Src/led_7segment.c:28:6:update_clock_buffer	1
+../Core/Src/led_7segment.c:35:6:display_all_clock	5
+../Core/Src/led_7segment.c:64:6:display_ver_num	1
+../Core/Src/led_7segment.c:74:6:display_hor_num	1
+../Core/Src/led_7segment.c:84:6:disable_all_7seg	1
+../Core/Src/led_7segment.c:91:6:enable_num	5

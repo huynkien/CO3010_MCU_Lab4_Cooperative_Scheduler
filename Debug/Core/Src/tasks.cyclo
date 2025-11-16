@@ -1,0 +1,4 @@
+../Core/Src/tasks.c:10:6:task_toggle_status_led	1
+../Core/Src/tasks.c:15:6:task_traffic_light_fsm	2
+../Core/Src/tasks.c:29:6:task_button_scan	1
+../Core/Src/tasks.c:36:6:task_display_7seg	1
